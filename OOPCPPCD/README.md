@@ -50,7 +50,7 @@ C++课程设计是继C++课程之后的实践课程，其主要目的是进一�
 ### [Day 2. 图像文件I/O](src/FileIO.md)
 读写图像文件和元数据文件，掌握图像格式的存储
 
-### [Day 3. 图像信息输出](src/Infomation.md)
+### [Day 3. 图像信息输出](src/Information.md)
 输出图像的数据信息，如：行、列、波段数、数据类型、投影、控制点信息等。
 
 ### [Day 4. 图像统计量计算](src/Statistics.md)
@@ -77,6 +77,5 @@ Qt的下载、安装、配置及使用
 
 ## 附录
 ### [Qt配置](./QtSetup.md)
-### [The Basic of Remote Sensing Image](/Basic_RS_Image.pdf)
-### [Top 4 Open Source Image Lib](./Top4ImageLib.md)
+### [The Basic of Remote Sensing Image](src/Basic_RS_Image.doc)
 
