@@ -60,7 +60,7 @@ C++课程设计是继C++课程之后的实践课程，其主要目的是进一�
 ### [Day 5. 图像显示](src/Display.md)
 将图像文件输出到屏幕
 
-### [Day 6. 图像缩放](src/Zoom.md)
+### [Day 6. 图像缩放与旋转](src/ZoomRotate.md)
 实现图像的缩放和旋转
 
 ### [Day 7. 图像滤波](src/Filter.md)
