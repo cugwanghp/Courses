@@ -77,5 +77,5 @@ Qt的下载、安装、配置及使用
 
 ## 附录
 ### [Qt配置](src/QtSetup.md)
-### [The Basic of Remote Sensing Image](refs/Basic_RS_Image.doc)
+### [The Basic of Remote Sensing Image](refs/Basic_RS_Image.docx)
 
