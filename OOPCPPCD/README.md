@@ -76,6 +76,6 @@ Qt的下载、安装、配置及使用
 完善已有功能的界面优化，如：直方图的图形化显示等
 
 ## 附录
-### [Qt配置](./QtSetup.md)
-### [The Basic of Remote Sensing Image](src/Basic_RS_Image.doc)
+### [Qt配置](src/QtSetup.md)
+### [The Basic of Remote Sensing Image](refs/Basic_RS_Image.doc)
 
