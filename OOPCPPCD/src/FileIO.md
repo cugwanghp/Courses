@@ -273,11 +273,4 @@ bool	CRSImage::Open(const char* lpstrPath)
 }
 ```
 
-
-
-
-
-## 代码
-
-
 Go To [课设题目](./CourseDesignSubject.md)
