@@ -98,5 +98,5 @@ void Usage()
 ```
 
 
-[课设内容](./CourseDesignSubject.md)
+[课设内容](./Subject.md)
 
