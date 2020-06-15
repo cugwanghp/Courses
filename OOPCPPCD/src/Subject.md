@@ -116,6 +116,6 @@
 - [课设模板](refs/Report_Template.doc)
 
 ## 附录
-- [The Basic of Remote Sensing Image](refs/Basic_RS_Image.docx)
-- [遥感测试数据](data/test.rar)
-- [遥感图像显示工具-FWTools](/refs/OpenEV_Manual.pptx) [下载FWTools](http://home.gdal.org/fwtools/FWTools247.exe)
+- [The Basic of Remote Sensing Image](../refs/Basic_RS_Image.docx)
+- [遥感测试数据](../data/test.rar)
+- [遥感图像显示工具-FWTools](../refs/OpenEV_Manual.pptx) [下载FWTools](http://home.gdal.org/fwtools/FWTools247.exe)
