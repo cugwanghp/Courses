@@ -3,7 +3,38 @@
 滤波(Filter)功能的要求是：
 1. 写出一个通用的卷积功能，要求卷积核的内容可以是任意方阵（通常方阵的行列数为奇数）
 2. 测试以下卷积核滤波后，滤波结果图像有何差别？
+  - 3*3均值滤波
+$$
+\begin{bmatrix}
+\frac{1}{9} & \frac{1}{9} & \frac{1}{9}\\
+\frac{1}{9} & \frac{1}{9} & \frac{1}{9}\\
+\frac{1}{9} & \frac{1}{9} & \frac{1}{9}
+\end{bmatrix}
+$$
 
+- 5*5均值滤波
+$$
+\begin{bmatrix}
+\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
+\end{bmatrix}
+$$
+
+- 7*7均值滤波
+$$
+\begin{bmatrix}
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} \\
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} \\
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} \\
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} \\
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} \\
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} \\
+\frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} & \frac{1}{49} 
+\end{bmatrix}
+$$
 
 具体细节参考：
 - [图像滤波](https://zhuanlan.zhihu.com/p/50238655)
