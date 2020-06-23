@@ -15,11 +15,11 @@ $$
 - 5*5均值滤波
 $$
 \begin{bmatrix}
-\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
-\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
-\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
-\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
-\frac{1}{25} & \frac{1}{9} & \frac{1}{9} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} \\
+\frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25} & \frac{1}{25}
 \end{bmatrix}
 $$
 
