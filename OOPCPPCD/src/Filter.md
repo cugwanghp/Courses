@@ -7,11 +7,8 @@
 $$
 \begin{bmatrix}
 \frac{1}{9} & \frac{1}{9} & \frac{1}{9} \\
-
 \frac{1}{9} & \frac{1}{9} & \frac{1}{9} \\
-
 \frac{1}{9} & \frac{1}{9} & \frac{1}{9}
-
 \end{bmatrix}
 $$
 
